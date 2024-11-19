@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Interested in Data science<br>📚 Product Analyst at ICICI Bank <br>🎯 Check out my <a href="www.linkedin.com/in/gvsreekar">LinkedIn</a> and <a href="https://www.kaggle.com/sreekargv">Kaggle</a> profile <br></p>
+<p align="left">✨ Interested in Data science<br>📚 Data scientist at ICICI Bank <br>🎯 Check out my <a href="www.linkedin.com/in/gvsreekar">LinkedIn</a> and <a href="https://www.kaggle.com/sreekargv">Kaggle</a> profile <br></p>
 
 ###
 
