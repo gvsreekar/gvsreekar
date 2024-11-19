@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a data analyst currently working at ICICI Bank, where I leverage data-driven insights to optimize financial strategies and enhance decision-making processes. With a keen interest in machine learning, I enjoy exploring datasets to uncover meaningful patterns and drive actionable recommendations. Excited to collaborate, learn, and contribute to the vibrant Github community</p>
+<p align="left">I'm a Data Scientist currently working at ICICI Bank, where I leverage data-driven insights to optimize financial strategies and enhance decision-making processes. With a keen interest in machine learning, I enjoy exploring datasets to uncover meaningful patterns and drive actionable recommendations. Excited to collaborate, learn, and contribute to the vibrant Github community</p>
 
 ###
 
